@@ -1,2 +1,2 @@
 # Keyboard
-This is virtual keyboard application
+A virtual keyboard application
